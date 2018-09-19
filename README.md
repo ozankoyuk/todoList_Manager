@@ -15,4 +15,7 @@ To-Do List Manager implemented with using React and Spring Boot.
 - Filter to-do items (status complete or not, expired, name) on a to-do list
 - Add dependency between to-do items. To-do items which have dependency can not be completed if dependent to-do item is not completed.
 
-## 19.08.18
+## Requirements
+- React&DOM ^15.3.2
+- webpack ^1.12.2
+- React-Bootstrap ^0.31
