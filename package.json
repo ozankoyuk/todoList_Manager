@@ -4,13 +4,13 @@
   "description": "To-Do List Manager by Ozan K.",
   "repository": {
     "type": "git",
-    "url": "git@github.com:MrIncarus/To-DoListManager.git"
+    "url": "git@github.com:ozankoyuk/todoList_Manager.git"
   },
   "author": "Ozan Koyuk",
   "bugs": {
-    "url": "https://github.com/MrIncarus/To-DoListManager/issues"
+    "url": "https://github.com/ozankoyuk/todoList_Manager/issues"
   },
-  "homepage": "https://github.com/MrIncarus/To-DoListManager",
+  "homepage": "https://github.com/ozankoyuk/todoList_Manager",
   "dependencies": {
     "react": "^15.3.2",
     "react-dom": "^15.3.2",
