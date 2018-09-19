@@ -25,5 +25,5 @@ To-Do List Manager implemented with using React and Spring Boot.
 - After cloning or opening project, set the project as 'Maven Project'
 - Then, run <code> mvnw spring-boot:run </code> for Windows. Running mvnw will give an error, which is not that important
 - Then set the JDK as '1.8' and  edit configurations for running the app.
-- You need to add a new configuration and select 'Spring Boot' app, and set its main class to 'TodoListApplication'
+- You need to add a new configuration to select 'Spring Boot' app, and set its main class to 'TodoListApplication'
 - Then simply run the application and go to <code>http://localhost:8080/</code> to see application.
