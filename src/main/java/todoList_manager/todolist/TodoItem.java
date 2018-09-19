@@ -10,6 +10,7 @@ import javax.persistence.*;
  * @author Ozan Koyuk
  * @since 08/18
  */
+
 @Entity
 @Data
 @NoArgsConstructor
