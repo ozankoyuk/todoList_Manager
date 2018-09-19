@@ -20,6 +20,7 @@ To-Do List Manager implemented with using React and Spring Boot.
 - React&DOM ^15.3.2
 - webpack ^1.12.2
 - React-Bootstrap ^0.31
+- Spring ^1.5.3
 
 ## Running
 - After cloning or opening project, set the project as 'Maven Project'
@@ -27,3 +28,7 @@ To-Do List Manager implemented with using React and Spring Boot.
 - Then set the JDK as '1.8' and  edit configurations for running the app.
 - You need to add a new configuration to select 'Spring Boot' app, and set its main class to 'TodoListApplication'
 - Then simply run the application and go to <code>http://localhost:8080/</code> to see application.
+
+## Extra
+- Homepage https://i.hizliresim.com/0z57G9.png
+- Error https://i.hizliresim.com/GDrv96.png
