@@ -29,6 +29,10 @@ To-Do List Manager implemented with using React and Spring Boot.
 - You need to add a new configuration to select 'Spring Boot' app, and set its main class to 'TodoListApplication'
 - Then simply run the application and go to <code>http://localhost:8080/</code> to see application.
 
-## Extra
-- Homepage https://i.hizliresim.com/0z57G9.png
-- Error https://i.hizliresim.com/GDrv96.png
+## Sources
+- I searched a lot about Spring&React and here are the sources that I've used.
+- https://spring.io/guides/tutorials/react-and-spring-data-rest/
+- https://stormpath.com/blog/crud-application-react-spring-boot-user-authentication
+
+- Homepage: https://i.hizliresim.com/0z57G9.png
+- The error when running the mvnw: https://i.hizliresim.com/GDrv96.png
